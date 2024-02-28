@@ -1,7 +1,7 @@
 # Problem Definition: ✨Consumer✨
 
 ##  Instructions
-Create a .py file that will contain a class that is setup to be a consumer in the RabbitMQ framework. This class will inherit from the mqConsumerInterface and consume and print a simple UTF-8 string message. 
+Create a .py file that will contain a class that is setup to be a consumer in the RabbitMQ framework. This class will inherit from the mqConsumerInterface and consume and print a simple UTF-8 string message.
 
 Below are bullet points of the criteria:
 - In the `solution` directory, create a file named `consumer_sol.py`
